@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "title": "The Matrix",
+        "rating": 8.7,
+        "year": 1999,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Neo": "Keanu Reeves",
+            "Trinity": "Carrie-Anne Moss",
+            "Morpheus": "Laurence Fishburne"
+        },
+        "directors": ["Lana Wachowski", "Lilly Wachowski"]
+    },
+    {
+        "id": 2,
+        "title": "The Matrix Reloaded",
+         "rating": 8.7,
+         "year": 2003,
+         "tags": ["scifi", "action", "drama"],
+         "actors": 
+         {
+             "Neo": "Keanu Reeves",
+             "Trinity": "Carrie-Anne Moss",
+             "Morpheus": "Laurence Fishburne"
+         },
+         "directors": ["Lana Wachowski", "Lilly Wachowski"]
+    },
+    {
+        "id": 3,
+        "name": "The Matrix Revolutions",
+        "rating": 8.7,
+        "year": 2003,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Neo": "Keanu Reeves",
+            "Trinity": "Carrie-Anne Moss",
+            "Morpheus": "Laurence Fishburne"        
+        },
+        "directors": ["Lana Wachowski", "Lilly Wachowski"]
+    },
+ {
+        "id": 4,
+        "title":"Avengers",
+        "rating": 8.5,
+        "year": 2012,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"]
+    } ,
+    {
+        "id": 5,
+        "title":"Avengers Infinity War",
+        "rating": 8.5,
+        "year": 2018,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"]
+    },
+    {
+        "id": 6,
+        "title":"Avengers End Game",
+        "rating": 8.5,
+        "year": 2019,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"] 
+    }
+    ,
+    {
+        "id": 7,
+        "title":"Avengers Age of Ultron",
+        "rating": 8.5,
+        "year": 2015,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"]
+    }  ,
+    {
+        "id": 8,
+        "title":"Avengers Civil War",
+        "rating": 8.5,
+        "year": 2016,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"]
+    },
+    {
+        "id": 9,
+        "title":"Avengers Infinity War",
+        "rating": 8.5,
+        "year": 2018,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"]
+    },
+    {
+        "id": 10,
+        "title":"Avengers End Game",
+        "rating": 8.5,
+        "year": 2019,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"]
+    },
+    {
+        "id": 11,
+        "title":"Conjuror",
+        "rating": 8.5,
+        "year": 2019,
+        "tags": ["scifi", "action", "drama"],
+        "actors": 
+        {
+            "Iron Man": "Robert Downey Jr",
+            "Captain America": "Chris Evans",
+            "Hulk": "Mark Ruffalo"
+        },
+        "directors": ["Joss Whedon"]
+    },
+    {
+        "id": 12,
+        "title": "The Matrix",
+        "rating": 8.7,
+        "year": 1999,
+        "tags": ["scifi", "action", "drama"],
+        "actors": {
+            "Neo": "Keanu Reeves",
+            "Trinity": "Carrie-Anne Moss",
+            "Morpheus": "Laurence Fishburne"
+        },
+        "directors": ["Lana Wachowski", "Lilly Wachowski"]
+    },
+    {
+        "id": 13,
+        "title": "Inception",
+        "rating": 8.8,
+        "year": 2010,
+        "tags": ["scifi", "thriller", "drama"],
+        "actors": {
+            "Dom Cobb": "Leonardo DiCaprio",
+            "Arthur": "Joseph Gordon-Levitt",
+            "Ariadne": "Elliot Page"
+        },
+        "directors": ["Christopher Nolan"]
+    },
+    {
+        "id": 14,
+        "title": "The Dark Knight",
+        "rating": 9.0,
+        "year": 2008,
+        "tags": ["action", "crime", "drama"],
+        "actors": {
+            "Batman": "Christian Bale",
+            "Joker": "Heath Ledger",
+            "Alfred": "Michael Caine"
+        },
+        "directors": ["Christopher Nolan"]
+    },
+    {
+        "id": 15,
+        "title": "Avatar",
+        "rating": 7.8,
+        "year": 2009,
+        "tags": ["scifi", "adventure", "action"],
+        "actors": {
+            "Jake Sully": "Sam Worthington",
+            "Neytiri": "Zoe Saldana",
+            "Dr. Grace": "Sigourney Weaver"
+        },
+        "directors": ["James Cameron"]
+    },
+    {
+        "id": 16,
+        "title": "Titanic",
+        "rating": 7.8,
+        "year": 1997,
+        "tags": ["romance", "drama", "history"],
+        "actors": {
+            "Jack": "Leonardo DiCaprio",
+            "Rose": "Kate Winslet",
+            "Cal": "Billy Zane"
+        },
+        "directors": ["James Cameron"]
+    },
+    {
+        "id": 17,
+        "title": "Interstellar",
+        "rating": 8.6,
+        "year": 2014,
+        "tags": ["scifi", "drama", "adventure"],
+        "actors": {
+            "Cooper": "Matthew McConaughey",
+            "Murph": "Jessica Chastain",
+            "Brand": "Anne Hathaway"
+        },
+        "directors": ["Christopher Nolan"]
+    },
+    {
+        "id": 18,
+        "title": "Pulp Fiction",
+        "rating": 8.9,
+        "year": 1994,
+        "tags": ["crime", "drama", "comedy"],
+        "actors": {
+            "Vincent Vega": "John Travolta",
+            "Jules Winnfield": "Samuel L. Jackson",
+            "Mia Wallace": "Uma Thurman"
+        },
+        "directors": ["Quentin Tarantino"]
+    },
+    {
+        "id": 19,
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": 9.0,
+        "year": 2003,
+        "tags": ["fantasy", "adventure", "drama"],
+        "actors": {
+            "Frodo": "Elijah Wood",
+            "Aragorn": "Viggo Mortensen",
+            "Sam": "Sean Astin"
+        },
+        "directors": ["Peter Jackson"]
+    },
+    {
+        "id": 20,
+        "title": "The Godfather",
+        "rating": 9.2,
+        "year": 1972,
+        "tags": ["crime", "drama"],
+        "actors": {
+            "Don Vito Corleone": "Marlon Brando",
+            "Michael Corleone": "Al Pacino",
+            "Sonny Corleone": "James Caan"
+        },
+        "directors": ["Francis Ford Coppola"]
+    },
+    {
+        "id": 21,
+        "title": "Forrest Gump",
+        "rating": 8.8,
+        "year": 1994,
+        "tags": ["drama", "romance"],
+        "actors": {
+            "Forrest Gump": "Tom Hanks",
+            "Jenny Curran": "Robin Wright",
+            "Lt. Dan Taylor": "Gary Sinise"
+        },
+        "directors": ["Robert Zemeckis"]
+    }
+]
