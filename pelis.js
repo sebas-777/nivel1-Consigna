@@ -19,3 +19,15 @@ exports.getBySort = (property)=>{
         return 0;
     });
 }
+
+exports.getBySearch = (datos,keyword)=>{
+    const results = datos.filter(item=>{
+        const lowerCaseKeyword = keyword.toLowerCase();
+
+        return Object.values(item).some(value =>
+            value.toString().toLowerCase().includes(lowerCaseKeyword)
+        );
+    });
+
+    return results;
+}

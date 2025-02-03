@@ -5,6 +5,8 @@ const allMovies = fs.getAll();
 
 const sortedMovies = fs.getBySort('title');
 
+const searchResults = fs.getBySearch(allMovies, 'Forrest Gump');
+
 
 function testGetAllPelis() { 
     result = allMovies.length > 0;
@@ -21,6 +23,13 @@ function testGetBySort() {
 }
 
 
+function testSearch() {
+    result  = searchResults.length > 0;
+    console.log("el resultado de la busqueda es: ", result);
+    console.log(`El resultado de la busqueda es: ${JSON.stringify(searchResults, null, 2)}`);
+    return result;
+}
 
 testGetAllPelis();
 testGetBySort();
+testSearch();
